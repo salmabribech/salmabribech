@@ -8,7 +8,7 @@
 
  
 ## 🤝 Me contacter
-📧 bribech.salma@gmail.com  
+📬 **Email :** bribech.salma@gmail.com  
 
 🔗 **LinkedIn :**  https://www.linkedin.com/in/salma-bribech-b9522a116/
 
