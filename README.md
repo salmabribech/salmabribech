@@ -1,9 +1,20 @@
+<div align="center">
+
 # 👋 Bonjour, je suis Salma Bribech  
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&duration=3000&pause=1000&color=0A66C2&center=false&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Insights" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence;SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Insights" />
 
 📍 Rueil-Malmaison, France  
 📧 bribech.salma@gmail.com  
+
+🔗 **LinkedIn :**  
+https://www.linkedin.com/in/salma-bribech-b9522a116/
+
+<br>
+
+[![CV](https://img.shields.io/badge/Télécharger_mon_CV-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](Salma_Bribech_CV.pdf)
+
+</div>
 
 ---
 
@@ -90,6 +101,9 @@ Je conçois des dashboards clairs, des indicateurs fiables et des analyses utile
 ## 🤝 Me contacter
 
 📧 bribech.salma@gmail.com  
-🔗 LinkedIn : (à ajouter)  
-📄 CV : (à ajouter dans le repo)
+🔗 LinkedIn : https://www.linkedin.com/in/salma-bribech-b9522a116/  
+📄 CV : *(uploadé dans ton repo)*  
+
+
+
 
