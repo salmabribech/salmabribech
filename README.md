@@ -6,8 +6,7 @@
 
 </div>
 
-📍 Ile de France, France  
-
+ 
 ## 🤝 Me contacter
 📧 bribech.salma@gmail.com  
 
