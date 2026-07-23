@@ -6,8 +6,9 @@
 </div>
 
 📍 Ile de France, France  
-📧 bribech.salma@gmail.com  
 
+## 🤝 Me contacter
+📧 bribech.salma@gmail.com  
 🔗 **LinkedIn :**  
 https://www.linkedin.com/in/salma-bribech-b9522a116/
 
@@ -91,15 +92,9 @@ Je conçois des dashboards clairs, des indicateurs fiables et des analyses utile
 - Master Informatique Décisionnelle – ISG Gabès  
 - Licence Informatique Appliquée – ISG Gabès  
 
----
 
 
----
 
-## 🤝 Me contacter
-
-📧 bribech.salma@gmail.com  
-🔗 LinkedIn : https://www.linkedin.com/in/salma-bribech-b9522a116/  
  
 
 
