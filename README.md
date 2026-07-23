@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bonjour, je suis Salma Bribech
+Data Analyst | Business Intelligence | Machine Learning.👋
 
 <!--
 **Bonjour, je suis Salma Bribech
