@@ -93,9 +93,6 @@ Je conçois des dashboards clairs, des indicateurs fiables et des analyses utile
 
 ---
 
-## 📈 Stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salma-bribech&show_icons=true&theme=default)
 
 ---
 
@@ -103,7 +100,7 @@ Je conçois des dashboards clairs, des indicateurs fiables et des analyses utile
 
 📧 bribech.salma@gmail.com  
 🔗 LinkedIn : https://www.linkedin.com/in/salma-bribech-b9522a116/  
-📄 CV : *(uploadé dans ton repo)*  
+ 
 
 
 
