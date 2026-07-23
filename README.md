@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 <!--
-**salmabribech/salmabribech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bonjour, je suis Salma Bribech
+Data Analyst | Business Intelligence | Machine Learning.
 
+Analyste de données avec une solide expérience en télécom et en Systèmes d'Information Géographique (SIG).
+Passionnée par la transformation des données en insights actionnables.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
