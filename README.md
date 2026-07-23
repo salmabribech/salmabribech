@@ -11,8 +11,7 @@
 ## 🤝 Me contacter
 📧 bribech.salma@gmail.com  
 
-🔗 **LinkedIn :**  
-https://www.linkedin.com/in/salma-bribech-b9522a116/
+🔗 **LinkedIn :**  https://www.linkedin.com/in/salma-bribech-b9522a116/
 
 <br>
 
