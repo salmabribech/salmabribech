@@ -5,9 +5,9 @@
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Intelligence;Python+Developer;Transforming+Data+into+Insights" />
 
 </div>
----
+
 📍 Ile de France, France  
----
+
 ## 🤝 Me contacter
 📧 bribech.salma@gmail.com  
 
